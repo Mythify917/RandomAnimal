@@ -1,0 +1,7 @@
+README.md
+setup.py
+RandomAnimal.egg-info/PKG-INFO
+RandomAnimal.egg-info/SOURCES.txt
+RandomAnimal.egg-info/dependency_links.txt
+RandomAnimal.egg-info/not-zip-safe
+RandomAnimal.egg-info/top_level.txt

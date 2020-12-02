@@ -8,5 +8,5 @@ setup(name='RandomAnimal',
       author='Mythify',
       author_email='thenoobdude21.12@gmail.com',
       license='MIT',
-      packages=['requests', 'RandomAnimal'],
+      packages=[],
       zip_safe=False)
